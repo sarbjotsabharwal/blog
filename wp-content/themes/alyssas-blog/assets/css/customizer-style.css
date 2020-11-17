@@ -1,0 +1,25 @@
+
+ #customize-theme-controls li#accordion-panel-theme_option_panel h3.accordion-section-title,
+ #customize-theme-controls li#accordion-panel-alyssas_blog_typography h3.accordion-section-title,
+ #customize-theme-controls li#accordion-section-alyssas_blog_color_option h3.accordion-section-title
+
+{
+   background-color:#592c87 !important;
+   color: #FFF !important;
+}
+
+
+#customize-outer-theme-controls li#accordion-panel-theme_option_panel h3.accordion-section-title:after
+{ color: #FFF !important;}
+
+#customize-theme-controls li#accordion-panel-theme_option_panel .accordion-section-title:after,
+#customize-theme-controls li#accordion-panel-alyssas_blog_typography .accordion-section-title:after,
+#customize-theme-controls li#accordion-section-alyssas_blog_color_option .accordion-section-title:after
+{
+color: #FFF !important;
+}
+
+ #customize-theme-controls #accordion-section-pro_sec .accordion-section-title{
+   background-color:#592c87 !important;
+   color: #FFF !important;
+ }
